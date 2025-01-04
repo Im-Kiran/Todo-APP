@@ -7,7 +7,6 @@ import Task from './components/Task'
 
 function App() {
 
-
   return (
     <>
       <Navbar/>
