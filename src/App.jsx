@@ -6,7 +6,7 @@ import Navbar from './components/Navbar'
 import Task from './components/Task'
 
 function App() {
-  const [count, setCount] = useState(0)
+
 
   return (
     <>
