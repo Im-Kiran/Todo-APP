@@ -1,0 +1,29 @@
+
+.flex{
+  display: flex;
+}
+.btn{
+  color: white;
+  background-color: #1e90ff;
+  border: none;
+  border-radius: 5px;
+  padding: 2px 4px;
+  font-size: x-small;
+  transition:all ease-in 0.1s;
+}
+.btn:hover{
+  background-color: #084684;
+  padding:0 5px;
+ 
+}
+.g-4{
+  display: flex;
+  gap: 4px;
+}
+.m-2{
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+body{
+  background-color: #0d74da29;
+}

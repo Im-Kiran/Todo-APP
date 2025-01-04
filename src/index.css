@@ -1,0 +1,40 @@
+
+*{
+  margin: 0;
+  padding: 0;
+}
+nav{
+  display: flex;
+  background-color: dodgerblue;
+  color:white;
+  justify-content: space-between;
+  padding:0 20px;
+}
+.icon{
+  font-weight:900;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.home{
+  display: flex;
+  gap:10px;
+}
+.body{
+  width: 60vw;
+  background-color: rgba(72, 154, 241, 0.189);
+  margin: auto;
+  border-radius: 10px;
+  padding:10px;
+}
+.text{
+  font-size: small;
+}
+.input{
+  width: 60vw;
+  border-radius: 5px;
+  border: none;
+  padding: 5px;
+}
+.todo{
+  display:flex;
+  justify-content: space-between;
+}
